@@ -49,7 +49,10 @@ def changeBGColor(colors):
     wn.bgcolor(colors[random.randint(0, values-1)])
 
 def main():
-    colors = ["Blue", "red", "purple"]
+    colors = ['red', 'blue', 'green', 'yellow', 'purple', 'orange', 'pink', 'brown', 'black', 'white', 
+          'gray', 'cyan', 'magenta', 'lime', 'teal', 'lavender', 'maroon', 'navy', 'olive', 'azure', 
+          'indigo', 'violet', 'gold', 'silver', 'rose', 'peach', 'lightgreen', 'turquoise', 'skyblue', 'coral']
+
 
     lastMoveL = "N/A"
     lastMoveT = "N/A"
