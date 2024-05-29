@@ -51,7 +51,7 @@ def changeBGColor(colors):
 def main():
     colors = ['red', 'blue', 'green', 'yellow', 'purple', 'orange', 'pink', 'brown', 'black', 'white', 
           'gray', 'cyan', 'magenta', 'lime', 'teal', 'lavender', 'maroon', 'navy', 'olive', 'azure', 
-          'indigo', 'violet', 'gold', 'silver', 'rose', 'peach', 'lightgreen', 'turquoise', 'skyblue', 'coral']
+          'indigo', 'violet', 'gold', 'silver', 'rose', 'lightgreen', 'turquoise', 'skyblue', 'coral']
 
 
     lastMoveL = "N/A"
